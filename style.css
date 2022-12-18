@@ -1,0 +1,43 @@
+h3{
+    color: blue
+}
+h1{
+    text-align: center;
+    color:coral
+}
+h2{
+    text-align: center;
+    color:crimson;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+}
+nav{
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    width: 100%;       
+    table-layout: fixed;
+    background-color:dimgray;
+}
+a:link {
+    color: White;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color:darkorange;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+body{
+    background-color:lavender;
+}
